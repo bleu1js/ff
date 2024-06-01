@@ -1,9 +1,6 @@
 <html>
 <head>
 <style>
-  body{
-    background: #FF8040;
-  }
 nob{
   background:	#FF8040;
 }
@@ -13,9 +10,9 @@ nob{
 
 </head>
 
-
 <body>
-  <div class="game"> 
+
+div class="game"> 
     <dive class="nob"> <spane>x o</spane> game</dive>
   <div class="square" id="ITEM1"> </div>
   <div class="square" id="ITEM2"> </div>
@@ -29,9 +26,9 @@ nob{
   <div class="square" id="ITEM8"> </div>
   <div class="square" id="ITEM99"> </div>
 
-
-
 </body>
+  
+
 
 
 </html>
