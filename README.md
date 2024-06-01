@@ -1,13 +1,22 @@
 <html>
 <head>
+<style>
+  body{
+    background: #FF8040;
+  }
+nob{
+  background:	#FF8040;
+}
 
+  
+</style>
 
 </head>
 
 
 <body>
   <div class="game"> 
-    <dive> <spane>x o</spane> game</dive>
+    <dive class="nob"> <spane>x o</spane> game</dive>
   <div class="square" id="ITEM1"> </div>
   <div class="square" id="ITEM2"> </div>
   <div class="square" id="ITEM3"> </div>
